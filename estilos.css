@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(138, 244, 134);
+   
+}
+#logo{
+    width: 70px;
+    height: 70px;
+    background: url(imagenes/logo.png);
+    text-indent: -900px;
+    overflow: hidden;
+   }
+   ul li{
+       list-style: none;
+   }
+   a{
+    text-decoration: none;
+   }
